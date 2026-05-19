@@ -60,7 +60,6 @@
 
 #title("SD-JWT with Commitments DRAFT")
 
-
 = Abstract
 In order to allow zero knowledge proofs on attributes within SD-JWTs, the hash algorithm definition is extended to allow the usage of commitment schemes. With commitment schemes, we can for example use simple sigma protocols to derive proofs about age, or to bind various VCs without revealing the actual properties (e.g. when using claim based binding for bridging).
 
